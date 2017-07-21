@@ -4,6 +4,7 @@ paginate: 5
 disqus: false
 title : TIL
 tagline: Today I Learned...
+highlighter: rouge
 author :
   name : Pablo Hinojosa Nava
   email : pablohn6@gmail.com
