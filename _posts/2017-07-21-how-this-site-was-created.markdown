@@ -8,7 +8,7 @@ title: Cómo he creado este sitio
 
 Inauguro este espacio explicando cómo se ha creado. Quiero que este espacio sea un lugar para guardar mis notas personales relacionadas con la informática a modo de referencia personal compartida con el resto de la humanidad.
 
-Agradezco a toda la comunidad del software libre, Github y Jekkyl en general y en especial a [Anton Khodakivskiy](https://www.linkedin.com/in/akhodakivskiy/) (por la base) y "a la Mari" (por enseñarme la base y el cómo hacerlo).
+Agradezco a toda la comunidad del software libre, Github y Jekkyl en general y en especial a [Anton Khodakivskiy](https://www.linkedin.com/in/akhodakivskiy/) por la base y "a la Mari" (por enseñarme la base y el cómo hacerlo).
 
 Veamos cómo se ha montado esta web
 
