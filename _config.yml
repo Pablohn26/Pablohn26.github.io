@@ -1,7 +1,7 @@
 pygments: true
 paginate: 5
 
-disqus: true
+disqus: false
 title : TIL
 tagline: Today I Learned...
 author :
