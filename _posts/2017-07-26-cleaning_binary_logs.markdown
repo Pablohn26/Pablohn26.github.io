@@ -8,7 +8,7 @@ title: Limpiando logs binarios de MySQL
 
 El log binario es un log que utiliza la sincronización de MySQL/MariaDB para guardar los cambios que hay tanto en la estructura de la base de datos como en los datos de la misma.
 
-La idea es que mediante ese log los diferentes componentes de la sincronización se ponen de acuerdo en los cambios que hay. Hay mucha más información [aquí](https://mariadb.com/kb/en/mariadb/binary-log/).
+La idea es que mediante ese log los diferentes componentes de la sincronización se ponen de acuerdo en los cambios que hay. Hay mucha más información en este enlace: https://mariadb.com/kb/en/mariadb/binary-log/ .
 
 {% endcapture %}
 
